@@ -1,6 +1,6 @@
 //HTML
 //The static date is in place in the event the user has js turned off
-<div class="copyright" aria-label="copyright">&copy; 2001 - <span class="yr">2016</span> YOUR NAME OR COMPANY NAME</div>
+<div class="copyright" aria-label="copyright"><p>&copy; 2001 - <span class="yr">2016</span> YOUR NAME OR COMPANY NAME</p></div>
 
 // Plain JavaScript 
 var thisYear = new Date();
